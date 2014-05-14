@@ -142,7 +142,7 @@ Frontend Knowledge Structure
         - Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)
 - 后端工程师
     - 编程语言
-        - C/C++/Java/PHP/Ruby/Python/...
+        - C/C++/Java/PHP/Ruby/Python/Nodejs...
     - 服务器
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
@@ -182,6 +182,7 @@ Frontend Knowledge Structure
 - [JavaScript模式](http://book.douban.com/subject/11506062/)★★★
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
 - [基于MVC的JavaScript Web富应用开发](http://book.douban.com/subject/10733304/)★★★
+- [改善JavaScript程序的188个建议](http://book.douban.com/subject/20366358/)★★★
 
 ### 版本控制工具
 - [版本控制之道 (git)](http://book.douban.com/subject/4813786/)★★
